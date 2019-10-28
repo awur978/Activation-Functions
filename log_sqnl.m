@@ -1,3 +1,5 @@
+%Computationally efficient square based nonlinearity
+%to replace the popular computationally expensive Sigmoid
 function y = log_sqnl(n)
       y=zeros(size(n));
 
