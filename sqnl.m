@@ -1,3 +1,5 @@
+%Computationally efficient square based nonlinearity
+%to replace the popular computationally expensive Tanh
 function a = sqnl(n,param)
 a=zeros(size(n));
 
