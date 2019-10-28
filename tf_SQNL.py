@@ -1,3 +1,7 @@
+#Computationally efficient square based nonlinearity
+#to replace the popular computationally expensive Tanh
+#For Tensorflow framework
+
 import numpy as np
 from scipy import arange
 import tensorflow as tf
