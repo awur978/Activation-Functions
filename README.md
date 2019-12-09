@@ -3,6 +3,7 @@ This is a repository containing the new activation function proposed during the 
 I will keep updating this repo as time goes on
 Language and platforms includes
 
+
 MATLAB, Python, Tensorflow and Keras
  
  tf_SQNL is the replacement for the popular and computationally expensive tanh activation function
