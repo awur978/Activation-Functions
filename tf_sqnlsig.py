@@ -9,4 +9,3 @@ def tf_sqnlsig(x):   #tensorflow SQNLsigmoid
     wsq = (tf.multiply(a,b))/4.0
     y = tf.add(tf.multiply(tf.add(u,wsq),0.5),0.5)
     return y
-
